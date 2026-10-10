@@ -1,0 +1,12 @@
+{
+  "name": "netwatch",
+  "version": "1.0.0",
+  "description": "ISP drop logger for video-call connectivity issues",
+  "type": "module",
+  "scripts": {
+    "start": "node netwatch.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
